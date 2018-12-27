@@ -2,5 +2,6 @@
 
 int main(void)
 {
-return 0;
+	printf("This program print report card.\n");
+	return 0;
 }
